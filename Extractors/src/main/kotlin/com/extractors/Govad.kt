@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.Qualities
 
 
 open class Govad : ExtractorApi() {
-    override val name = "Govad"
+    override val name = "Govid"
     override val mainUrl = "https://govad.xyz"
     override val requiresReferer = false
 
