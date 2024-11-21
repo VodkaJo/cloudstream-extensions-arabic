@@ -13,7 +13,7 @@ class ExtractorsPlugin: Plugin() {
         registerExtractorAPI(Vidshar())
         registerExtractorAPI(Vadbam())
         registerExtractorAPI(Vidbom())
-        registerExtractorAPI(Govad())
+        registerExtractorAPI(Govid())
         registerExtractorAPI(Moshahda())
         registerExtractorAPI(VoeSx())
         registerExtractorAPI(LinkBox())
